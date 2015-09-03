@@ -13,3 +13,7 @@ JS event loop
 
 Closure
 * http://javascriptissexy.com/understand-javascript-closures-with-ease/
+
+Hoisting
+* http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/
+* 
