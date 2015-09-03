@@ -8,3 +8,5 @@ ng performance
 rest
 *  http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
+JS event loop
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
