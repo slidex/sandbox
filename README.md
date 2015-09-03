@@ -16,4 +16,4 @@ Closure
 
 Hoisting
 * http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/
-* 
+
