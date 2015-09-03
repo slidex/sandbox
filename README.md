@@ -17,3 +17,5 @@ Closure
 Hoisting
 * http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/
 
+Strict mode
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
