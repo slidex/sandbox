@@ -19,3 +19,6 @@ Hoisting
 
 Strict mode
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+
+Main JS concepts
+* http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
