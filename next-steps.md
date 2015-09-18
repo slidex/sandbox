@@ -4,7 +4,8 @@ ng:
 - tutorial: resource
 - tutorial: anim
 
-- prototypal inheritance: https://github.com/angular/angular.js/wiki/Understanding-Scopes#javascript-prototypal-inheritance
+- prototypal inheritance:
+  https://github.com/angular/angular.js/wiki/Understanding-Scopes#javascript-prototypal-inheritance
 - SEO
 - scroll handler
 - directive life cycle
