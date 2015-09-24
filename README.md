@@ -22,3 +22,6 @@ Strict mode
 
 Main JS concepts
 * http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+
+Git Concepts
+http://www.sbf5.com/~cduan/technical/git/
