@@ -25,3 +25,7 @@ Main JS concepts
 
 Git Concepts
 * http://www.sbf5.com/~cduan/technical/git/
+
+HTML5
+* https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+
